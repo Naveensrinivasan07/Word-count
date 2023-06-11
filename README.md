@@ -33,7 +33,7 @@ print("The number of words are in the file is ",num)
 
 ### OUTPUT:
 
-![output](![Screenshot 2023-06-05 103928](https://github.com/Naveensrinivasan07/Word-count/assets/119475891/ec8e6d69-a36c-4e47-8fdb-1109c9fd41be)
+![Screenshot 2023-06-05 103928](https://github.com/Naveensrinivasan07/Word-count/assets/119475891/ec8e6d69-a36c-4e47-8fdb-1109c9fd41be)
 
 
 ## RESULT:
